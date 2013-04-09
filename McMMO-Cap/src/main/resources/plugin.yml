@@ -1,0 +1,13 @@
+name: McMMOCap
+main: com.FrancescoDeSa.McMMOCap
+version: 0.2
+depend: [Vault, mcMMO]
+description: This plugin allows you establish dayly caps for McMMO experience gain
+author: FrancescoDeSa (francesco.desantis.1803@gmail.com)
+
+permissions:
+  mcap.exempt:
+   description: Exempts a person from all caps
+   default: op
+     
+  

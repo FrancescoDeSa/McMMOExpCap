@@ -1,0 +1,12 @@
+settings:
+  nocapforop: true
+  
+  
+##custon caps
+caps:
+  groups:
+    reg: 1000 
+    vipL: 2000
+    
+  users:
+    FrancescoDS: 3000
